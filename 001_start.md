@@ -8,15 +8,7 @@ Mistrz gry z zasady powinien być bardziej doświadczony od reszty. Jeżeli jedn
 
 Każda Werwa zaczyna się na poziomie 0\. Podczas tworzenia postaci trzeba rozdzielić ??140?? punktów pomiędzy wybrane Werwy. Nie można jednak na tym etapie w daną Werwę dać więcej niż 40\.
 
-Zaczynasz na poziomie 1, dlatego dostajesz od razu 5 punktów rozwoju na start.
-
-Za punkty rozwoju (PR) możemy:
-
-1. Uczyć się Kunsztów. 1PR to 1 poziom Kunsztu.  
-2. Udoskonalić Werwę. 1PR to 2 punkty Werwy.  
-3. Wykupić Fach, którego wymagania spełniliśmy. Jeden Fach kosztuje 3PR.
-
-Dodatkowo na start postać posiada:
+Na start postać posiada:
 
 * 3 Punkty Wigoru  
 * 3 Punkty Jaźni  
@@ -27,16 +19,20 @@ Do wymienionych wyżej atutów należy dodać bonusy wynikające z Werw.
 
 Teraz trzeba obliczyć, ile WOLI WALKI posiada postać. Obliczamy to według wzoru:
 
-W1\*10+W2, gdzie:
-
-W1 \- Poziom postaci podzielony przez 3 zaokrąglony w górę.
-
-W2 \- Poziom Werwy Tężyw
+\(Poziom Werwy Tężyw\) \+ 10
 
 WOLA WALKI to statystyka zastępująca klasyczne punkty życia. Test jej jest wykonywany gdy co najmniej jedna z kończyn zostanie ZNISZCZONA. Jeżeli test się nie powiedzie, postać traci przytomność.
 
 Następnie należy wybrać 5 Kunsztów z którymi postać zaczyna rozgrywkę. Za 5PR, które gracz dostał na start dozwolone jest od razu ulepszenie Kunsztów na wybrany przez siebie poziom.
 
 Teraz przechodzimy do wybrania śledzonych Fachów, które chcemy rozwijać w pierwszej kolejności. Pamiętać trzeba, że postać może mieć nieograniczoną ilość Fachów, jednak jednocześnie śledzić może ich tylko 5\. W każdym momencie można zmienić śledzone Fachy, jednak wtedy postęp w poprzednie śledzonej przepada. Trzeba to oczywiście zgłosić mistrzowi gry.
+
+Blisko końca\! Dostajesz na start również 5 Żetonów Startu.
+
+Za Żetony Startu możesz:
+
+1. Nauczyć się Kunsztów/rozwinąć już posiadany. 1 poziom Kunsztu to 1 Żeton Startu.  
+2. Udoskonalić Werwę. 2 punkty Werwy kosztują 1 Żeton Startu.  
+3. Wykupić Fach, którego wymagania spełniłeś. Jeden Fach kosztuje 3 Żetony Startu.
 
 Na koniec zostaje tylko wyposażenie postaci, to już zależne jest od mistrza gry.
