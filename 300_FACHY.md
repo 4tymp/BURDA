@@ -6,9 +6,9 @@ Maksymalnie można śledzić 5 Fachów, które chcemy odblokować. Dopiero podcz
 
 Jeżeli chcemy zmienić śledzony Fach na inny, postęp wcześniejszego przepada.
 
-# Krzepkie:
+## Krzepkie:
 
-## Kuba \!\!\!
+### Kuba \!\!\!
 
 Wymagania:
 
@@ -20,7 +20,7 @@ Zdolność:
 
 Po zostaniu zaatakowanym możesz zbliżyć się do atakującego za max połowę ruchu i zaatakować go, jeśli jest w zasięgu.
 
-## Łapiger
+### Łapiger
 
 Wymagania:
 
@@ -40,7 +40,7 @@ Gdy Łapiger atakuje cel:
 2. Jego szansa na Ikrę zwiększa się dwukrotnie.  
 3. Wszystkie jego ataki nie są śmiertelne.
 
-## Ręb
+### Ręb
 
 Wymagania:
 
@@ -56,7 +56,7 @@ Za każdą Zniszczoną kończynę Ręb dostaje dodatkową BURDĘ.
 
 Dodatkowo, po nieudanym teście Woli Walki Ręb od razu przejmuje Turę przeciwnika, w której ma wszystkie swoje BURDY, wszystkie Ataki to Zniszczenie, nie działają na niego kary za Zranione i Zniszczone Kończyny, oraz nic nie może zadać mu obrażeń. Po zakończeniu tej tury, czyli wykorzystaniu wszystkich BURD, Ręb traci przytomność.
 
-## Trypuł
+### Trypuł
 
 Wymagania:
 
@@ -95,7 +95,7 @@ Bonusy za szał:
 
 Nie ma górnego limitu szału.
 
-## Dusza Demona
+### Dusza Demona
 
 Wymagania:
 
@@ -110,7 +110,7 @@ Zdolność:
 
 Potrafi używać broń dwuręczną w jednej ręce.
 
-## Myślorąb
+### Myślorąb
 
 Wymagania:
 
@@ -124,7 +124,7 @@ Zdolność:
 
 Raz na turę możesz wykonać test Erudyty, aby dodać sobie dodatkowe k4 BURDY do końca tury.
 
-## Gruziłło
+### Gruziłło
 
 Wymagania:
 
@@ -141,7 +141,7 @@ Leczenie Gruziłła jest o jeden poziom skuteczniejsze.
 
 Gruziłło może wykonać rzut obronny zamiast sojusznika znajdującego się w Bliskim zasięgu od niego, aby go obronić. Kosztuje go to oczywiście 1 Reakcję. Jeśli rzut się nie powiedzie, obrażenia spadają na Gruziłło.
 
-## Orężnik
+### Orężnik
 
 Wymagania:
 
@@ -156,7 +156,7 @@ Dostajesz dodatkowy atak, który nie zużywa punktu BURDY.
 
 Sojusznicy w Bliskim zasięgu od Orężnika dostają \+10 do szansy na trafienie bronią.
 
-## Brzdąk
+### Brzdąk
 
 Wymagania:
 
@@ -171,7 +171,7 @@ Rzut Brzdąka na BURDĘ jest liczony zawsze jako Wynik \-20.
 
 Jeżeli walczy z przeciwnikiem sam na sam, posiada: \+10 do Rębajło, \+5 szansy na trafienie krytyczne, oraz jego obrażenia są o jeden poziom wyższe.
 
-## Zasłonnik
+### Zasłonnik
 
 Wymagania:
 
@@ -188,9 +188,9 @@ Za każdym razem, gdy Tarczownik atakuje bronią inną niż tarczą, może za da
 
 Może wykonać ripostę po udanym parowaniu, która zadaje obrażenia tarczy.
 
-# Chytre:
+## Chytre:
 
-## Noży Strzelec \!\!\!
+### Noży Strzelec \!\!\!
 
 Wymagania:
 
@@ -198,7 +198,7 @@ Wymagania:
 
 Zdolność:
 
-## Hultaj
+### Hultaj
 
 Wymagania:
 
@@ -212,7 +212,7 @@ Może sprowokować wroga testem Chybkiego do końca walki.
 
 Atakując sprowokowanego wroga jego szansa na krytyk jest zwiększona o 10\.
 
-## Kmieć\!\!
+### Kmieć\!\!
 
 Wymagania:
 
@@ -220,7 +220,7 @@ Wymagania:
 
 Zdolność:
 
-## Burżuj\!\!
+### Burżuj\!\!
 
 Wymagania:
 
@@ -228,17 +228,17 @@ Wymagania:
 
 Zdolność:
 
-## KUMITSU \!\!\!
+### KUMITSU \!\!\!
 
-## Wymagania:
+Wymagania:
 
 * 
 
 Zdolność:
 
-# Magiczne:
+## Magiczne:
 
-## Prawdziwy Mnich
+### Prawdziwy Mnich
 
 Wymagania:
 
@@ -252,7 +252,7 @@ Zdolność:
 
 Posiadasz 1,5 razy więcej Jaźni zaokrąglone w dół. Medytowanie przywraca ci pełnię Jaźni.
 
-## Mag Run\!\!\!
+### Mag Run\!\!\!
 
 Wymagania:
 
@@ -267,7 +267,7 @@ Zdolność:
 
 Potrafisz rzucać zaklęcia runiczne podobnie do zwykłych zaklęć\! W tym przypadku maksymalna ilość run w zaklęciu 2 razy poziom umiejętności Inskrypcja.
 
-## Świstak
+### Świstak
 
 Potrafi zamieniać gwizdy oraz dmuchnięcia w ostre jak brzytwa klingi latające po polu bitwy. Jeśli się postara, potrafi zabrać sluch każdemu w sporym mieście… wszystko jednym gwizdnięciem.
 
@@ -287,7 +287,7 @@ Zdolność:
 
 O ile jesteś w stanie otworzyć usta możesz gwizdem tworzyć powietrzne ostrza. Są one domyślnie traktowane jak obrażenia miecza jednoręcznego i są traktowane jako Atak. Oczywiście nic nie stoi na przeszkodzie, aby przy użyciu Many ulepszyć je jak zwykłe zaklęcia.
 
-## Mag Czasu
+### Mag Czasu
 
 Wymagania:
 
@@ -303,7 +303,7 @@ Zdolność:
 
 Mag czasu raz dziennie może powtórzyć dowolny test. W zamian za wszystkie swoje Punkty Many potrafi wykorzystać czas swojego przeciwnika, aż do jego śmierci. Niestety on sam kończy po tym ze Zniszczonymi organami wewnętrznymi.
 
-## Prawdziwy Mag Pierwotny
+### Prawdziwy Mag Pierwotny
 
 Wymagania:
 
@@ -318,7 +318,7 @@ Zdolność:
 
 Prawdziwemu Magowi Pierwotnemu nigdy nie dzieje się Pech. Dodatkowo, nie musi wykonywać Testów Szmagiera, wszystkie są zawsze rozpatrzone pozytywnie. Nie ma on żadnych Akcji Obronnych oprócz jego własnej \- cofnięcia się w czasie oraz ucieknięcia w bezpieczne miejsce turę wcześniej. Może tak zrobić 3 razy podczas rundy. Mag Pierwotny nie potrafi się denerwować, ponieważ i tak widział juz wszystko wszedzie i zawsze milion razy. W tych czasach żyje, dopóki mu się nie znudzą i przejdzie do następnych.
 
-## Antymag
+### Antymag
 
 Antymagowie to osoby parający się magią pierwotną. Używają ją w celu rozpraszania Magii oraz walczenia z osobami magicznymi.
 
@@ -340,7 +340,7 @@ Potrafi spalić k4 punktów Many celu testem Szmagiera. Cel musi znajdować się
 
 Jeżeli spali ostatni punkt Many celu, Antymag posiada zawsze 50% na wykończenie celu jednym ciosem.
 
-## Konstelator
+### Konstelator
 
 Konstelator to mag pierwotny, który miłuje się w gwiazdach.
 
@@ -356,7 +356,7 @@ Zdolność:
 
 Konstelator potrafi zaczerpnąć moc z gwiazd, aby zwiększyć moc swoich czarów, niwelując karę za ulepszenie zaklęcia do \-30. Kosztuje to 1 pkt. Kondycji.
 
-## Wieszcz
+### Wieszcz
 
 Wieszcz to osoba potrafiąca widzieć przyszłość.
 
@@ -375,7 +375,7 @@ Potrafi przewidzieć niedaleką przyszłość w zamian za połowę many, lub wyc
 
 W zamian za test Szmagiera, 1 pkt. Many i Kondycji jest nie do trafienia przez ataki przez k4 tur.
 
-## Dziadek mróz
+### Dziadek mróz
 
 Wymagania:
 
@@ -392,7 +392,7 @@ Dziadek mróz potrafi natychmiastowo zmienić wodę w lód i odwrotnie. Każda j
 
 Dodatkowo leczenie magią Wodnika zawsze jest o jeden stopień lepsze.
 
-## Troll
+### Troll
 
 Wymagania:
 
@@ -409,7 +409,7 @@ Zbroja Trolla trwa teraz tak długo, aż ktoś jej nie zniszczy lub sam Troll je
 
 Raz na turę potrafi wykonać darmową akcję PIACH W OCZY, która ma 50% na oślepienie przeciwnika. Cały czas liczy się ona jako Manewr.
 
-## Wiatr
+### Wiatr
 
 Wymagania:
 
@@ -424,7 +424,7 @@ Zdolność:
 
 Wiatr płaci 1pkt Many za wejście w stan Lewitacji, po czym lewituje tak długo, jak mu się podoba. Każda jego akcja ma 25% na nałożenie efektu Dezorientacja. Dodatkowo, przy każdej akcji może za darmo odepchnąć lub przyciągnąć cel za dziesiątke cechy Szmagier metrów (plus bonusy).
 
-## Demon
+### Demon
 
 Wymagania:
 
@@ -439,7 +439,7 @@ Zdolność:
 
 Wszystkie ataki Demona mogą być traktowane jako obszarówka 4x4m. Demon zadaje obrażenia o jeden poziom większe każdemu przeciwnikowi, który jest podpalony. Każda jego akcja ma 25% na nałożenie efektu Podpalenie.
 
-## Elementalista
+### Elementalista
 
 Mistrz magii żywiołów, który okiełznał wszystkie żywioły na mistrzowskim poziomie.
 
@@ -463,7 +463,7 @@ Dodatkowo, z żywiołu:
 * Wiatru: Dostaje dodatkową Akcję  
 * Ognia: Dostaje dodatkową kość k10 do inicjatywy.
 
-## Nekromanta
+### Nekromanta
 
 Wymagania:
 
@@ -478,7 +478,7 @@ Za każdym razem, gdy kreatura Nekromanty zostanie zniszczona/odpędzona, Nekrom
 
 Nekromanta może przywoływać trupy z ziemi. Koszt za k4 trupy pierwszego poziomu to tyle samo, co przywołana kreatura 1 poziomu z tabeli tworzenia kreatur. Identycznie wygląda to z następnymi poziomami. Każdy trup zostaje zniszczony po 1 ciosie.
 
-## Ciemny Mag 2 \!\!\!
+### Ciemny Mag 2 \!\!\!
 
 Wymagania:
 
@@ -486,7 +486,7 @@ Wymagania:
 
 Zdolność:
 
-## Ciemny Mag 3 \!\!\!
+### Ciemny Mag 3 \!\!\!
 
 Wymagania:
 
@@ -494,7 +494,7 @@ Wymagania:
 
 Zdolność:
 
-## Ciemny Mag 4 \!\!\!
+### Ciemny Mag 4 \!\!\!
 
 Wymagania:
 
@@ -502,7 +502,7 @@ Wymagania:
 
 Zdolność:
 
-## Ciemny Mag 5 \!\!\!
+### Ciemny Mag 5 \!\!\!
 
 Wymagania:
 
@@ -510,7 +510,7 @@ Wymagania:
 
 Zdolność:
 
-## Jasny Mag 1 \!\!\!
+### Jasny Mag 1 \!\!\!
 
 Wymagania:
 
@@ -518,7 +518,7 @@ Wymagania:
 
 Zdolność:
 
-## Jasny Mag 2 \!\!\!
+### Jasny Mag 2 \!\!\!
 
 Wymagania:
 
@@ -526,7 +526,7 @@ Wymagania:
 
 Zdolność:
 
-## Jasny Mag 3 \!\!\!
+### Jasny Mag 3 \!\!\!
 
 Wymagania:
 
@@ -534,7 +534,7 @@ Wymagania:
 
 Zdolność:
 
-## Jasny Mag 4 \!\!\!
+### Jasny Mag 4 \!\!\!
 
 Wymagania:
 
@@ -542,7 +542,7 @@ Wymagania:
 
 Zdolność:
 
-## Jasny Mag 5 \!\!\!
+### Jasny Mag 5 \!\!\!
 
 Wymagania:
 
@@ -550,9 +550,9 @@ Wymagania:
 
 Zdolność:
 
-# Inne
+## Inne
 
-## Jednokończyny
+### Jednokończyny
 
 Wymagania:
 
@@ -563,7 +563,7 @@ Zdolność:
 
 Nauczyłeś się żyć z jedną kończyną mniej. Aby zrekompensowac brak kończyny do pary, to co ci zostało pracuje lepiej. Wszystkie testy wykonywane tą kończyną mają \+10.
 
-## Bezręki
+### Bezręki
 
 Wymagania:
 
@@ -574,7 +574,7 @@ Zdolność:
 
 Nauczyłeś się żyć bez rąk, a ich stare funkcje przejęły teraz nogi. Możesz wykonywać wszystkie akcje bez kar za brak kończyn. Dodatkowo twoje nogi stały się mocniejsze. Dostajesz umiejętność Aktywny. Niestety, w zwarciu możesz posługiwać się tylko bronią małą oraz walką wręcz. Do testów walki wręcz dostajesz bonus \+30.
 
-## Beznogi
+### Beznogi
 
 Wymagania:
 
@@ -585,7 +585,7 @@ Zdolność:
 
 Nauczyłeś się żyć bez nóg, a ich stare funkcje przejęły teraz ręce. Możesz wykonywać wszystkie akcje bez kar za brak kończyn. Dodatkowo twoje ręce stały się mocniejsze. Dostajesz \+20 do testów cechy Tężyw oraz zadajesz jeden typ obrażen więcej, ale masz też \-20 na testy cech Rębajło oraz Dziurawiec.
 
-## Zwierzy język
+### Zwierzy język
 
 Wymagania:
 
@@ -597,7 +597,7 @@ Zdolność:
 
 Potrafisz rozmawiać z większością bestii i zwierzaków\!
 
-## Wąpierz \!\!\!
+### Wąpierz \!\!\!
 
 Wampir, krwiopijca, potwór.
 
@@ -607,7 +607,7 @@ Wymagania:
 
 Zdolność:
 
-## Likantrop \!\!\!
+### Likantrop \!\!\!
 
 Wilkołak, dzikus, potwór.
 
@@ -617,7 +617,7 @@ Wymagania:
 
 Zdolność:
 
-## Cierpliwy Nauczyciel
+### Cierpliwy Nauczyciel
 
 Wymagania:
 
