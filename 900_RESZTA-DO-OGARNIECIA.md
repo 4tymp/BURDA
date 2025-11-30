@@ -1,3 +1,11 @@
+# ROZWÓJ POSTACI
+
+Gdy postać kładzie się spać, Mistrz Gry może zdecydować, czy polepszy się jakaś werwa postaci, w zależności od tego, co działo się tego dnia. Oczywiście może równie dobrze nic nie ulepszać.
+
+Np. Jeżeli postać gracza podczas dnia dużo uderzała bronią, podczas snu Mistrz Gry może zadecydować, że werwa Rębajło zwiększy się o 1\. (trzeba pomyśleć 1 czy 2\)
+
+Mistrz gry może również dodatkowo dodać wybraną ilość punktów Woli Walki w zależności od przeżyć postaci gracza. (Np. ważny nowy cel \- większa WW)
+
 #  Efekty
 
 Wszystkie efekty domyślnie trwają k4 tur.
