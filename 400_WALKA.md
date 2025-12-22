@@ -16,22 +16,23 @@ Jeżeli test się nie powiedzie, rozpoczynasz turę jako ostatni.
 
 ## TURY
 
-Tura Pierwsza  
+### Tura Pierwsza  
 Osoba, która zaczyna jako pierwsza posiada dodatkową BURDĘ.  
 Osoba, która przy teście wyrzuciła Licho nie posiada punktów BURDY w pierwszej turze.  
 Cała reszta posiada po jednym punkcie BURDY.  
-Następne Tury  
+### Następne Tury  
 Każdy posiada jeden punkt BURDY.  
 Kolejność zostaje taka jak wcześniej.
 
 ## AKCJA-REAKCJA\! 
 
-AKCJA  
+### AKCJA  
 Każda akcja kosztuje jeden punkt BURDY.  
 Są to działania które wykonujesz podczas swojej tury takie jak przemieszczenie się, atak lub użycie umiejętności Fachowej.
 
-REAKCJA  
-Gdy wiesz, że przeciwnik zamierza wykonać akcję w twoją stronę możesz wykonać reakcję z poniższej listy. Możesz użyć jednej Reakcji na rundę walki.
+### REAKCJA  
+Gdy wiesz, że przeciwnik zamierza wykonać akcję w twoją stronę możesz wykonać reakcję z poniższej listy. 
+Domyślnie możesz użyć jednej Reakcji na rundę walki.
 
 - Akcja obronna: Test Kunsztu Parada, Bryk lub Separacja  
 - Przygotowanie ofensywne: Dostajesz kostkę Triumfu przy następnym teście Ataku (koszt: 1pkt. Jaźni).  

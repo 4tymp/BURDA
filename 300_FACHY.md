@@ -34,13 +34,13 @@ Możesz wybrać jednego przeciwnika na początku walki. Zostaje on twoim Celem.
 
 Jeżeli wykonujesz zlecenie i walczysz z przedmiotem zlecenia, automatycznie zostaje on twoim Celem.
 
-Gdy Łapiger atakuje cel:
+Gdy Łapiger atakuje Cel:
 
 1. Dostaje kość Triumfu na testy Ataku.  
 2. Jego szansa na Ikrę zwiększa się dwukrotnie.  
 3. Wszystkie jego ataki nie są śmiertelne.
 
-### Ręb
+### Ręb !!
 
 Wymagania:
 
