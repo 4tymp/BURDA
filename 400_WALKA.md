@@ -44,9 +44,9 @@ Domyślnie możesz użyć jednej Reakcji na rundę walki.
 Zasięg w BURDZIE dzielimy na 4 odległości:
 
 - NAJBLIŻSZY: Tuż obok. Zasięg wręcz.  
-- BLISKI: W odległości do 3-4 metrów od ciebie.  
-- ŚREDNI: W odległości od 5 do 10 metrów od ciebie.  
-- DALEKI: W odległości od 11 do 16 metrów od ciebie.
+- BLISKI: Większość ludzi trafiłaby z tej odległości w cel rzucając np. piłką.  
+- ŚREDNI: Tu juz potrzeba conajmniej procy lub łuku.
+- DALEKI: Tylko łuki snajperskie lub działa.
 
 Wszystko powyżej liczone jest jako poza zasięgiem.
 
@@ -54,13 +54,13 @@ Akcja ruchu to przemieszczenie się o jedną odległość.
 
 ## BURDA\!
 
-Walka w BURDZIE polega bardzo na kości trafień, rodzajach broni i pancerzy oraz dbaniu o nie.
+Walka w BURDZIE opiera się na kości trafień, rodzajach broni i pancerzy oraz dbaniu o nie.
 
 Przy chęci ataku wykonywany jest test Rębajło lub Dziurawca. Jeżeli test się powiedzie, trafiłeś.
 
 Nie ma ograniczenia ilości Ataków. Jeżeli masz wystarczająco punktów BURDY, możesz je wszystkie wykorzystać na atak.
 
-Przy trafieniu w cel wykonywany jest rzut k12, aby sprawdzić, jaka część ciała dostanie obrażenia.
+Przy trafieniu w cel wykonywany jest rzut k12, aby sprawdzić, która część ciała dostanie obrażenia.
 
 Można również wycelować w wybraną kończynę w zamian za minusy do testu Rębajło lub Dziurawca. Minusy te są podane przy samej Lokacji Trafień, niżej.
 

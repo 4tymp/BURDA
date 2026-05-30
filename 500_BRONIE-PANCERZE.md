@@ -24,7 +24,7 @@ Oto tabela jaki typ obrazen dostanie kończyna w zależności od tego jaki ma na
 | Topory dwuręczne | zniszczenie | zniszczenie | zranienie | zranienie | Można nim rzucić testem Rębajło w zasięgu Średnim |
 | Kopia | zranienie | zadrapanie | \- | \- | Za każdy ruch przed atakiem zadajesz jeden stopień obrażeń więcej |
 | Improwizowana | ? | ? | ? | ? | ZALEŻNE OD TYPU BRONI. |
-| Pięści | zranienie | zadrapanie | zadrapanie | \- | Ma  |
+| Pięści | zranienie | zadrapanie | zadrapanie | \- | Moze wydać jedną BURDĘ za 3 ataki więcej, lub za rzut przeciwnikiem w zasięgu bliskim. |
 | Łuki | zniszczenie | zniszczenie | zranienie | \- | Celowanie w wybraną kończynę ma modyfikator \+2. |
 | Kusza | zniszczenie | zniszczenie | zniszczenie | zranienie | \- |
 | Broń palna | zniszczenie | zniszczenie | zniszczenie | zniszczenie | Celowanie w wybraną kończynę ma modyfikator \-2. |
