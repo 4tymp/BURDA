@@ -45,8 +45,9 @@ Zasięg w BURDZIE dzielimy na 4 odległości:
 
 - NAJBLIŻSZY: Tuż obok. Zasięg wręcz.  
 - BLISKI: Większość ludzi trafiłaby z tej odległości w cel rzucając np. piłką.  
-- ŚREDNI: Tu juz potrzeba conajmniej procy lub łuku.
-- DALEKI: Tylko łuki snajperskie lub działa.
+- ŚREDNI: Tu już potrzeba conajmniej procy.
+- DALEKI: Ulubiona strefa łuczników.
+- NAJDALSZY: Tylko łuki snajperskie lub działa.
 
 Wszystko powyżej liczone jest jako poza zasięgiem.
 
