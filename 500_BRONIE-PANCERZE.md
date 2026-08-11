@@ -29,31 +29,56 @@ Oto tabela jaki typ obrażeń dostanie kończyna w zależności od tego jaki ma 
 |        **Kusza**        | zniszczenie | zniszczenie | zniszczenie |  zranienie  |                                           \-                                           |
 |     **Broń palna**      | zniszczenie | zniszczenie | zniszczenie | zniszczenie |                         \-20 na celowanie w wybraną kończynę.                          |
 
-## Typy Pancerzy \!\!\!\!\!\!\!\!\!
+## Typy Pancerzy
 
-Mamy razem 12 slotów na pancerz, tak samo jak jest 12 kończyn. Można mieć absolutny miszmasz, albo pełną zbroję płytową. Twój wybór.
+Mamy razem 12 miejsc na pancerz, tak samo jak jest 12 kończyn. Można mieć absolutny miszmasz, albo pełną zbroję płytową. Twój wybór.
 
 Warto pamiętać, że jeśli Pancerz pęknie, to liczony jest jako brak pancerza. W takim wypadku również nie dolicza się do ilości segmentów.
 
 ### Lekki
+Lekka skóra, przeszywanice i pikowany strój - nie ogranicza ruchów, ale nie oferuje zbyt dobrej ochrony przed obrażeniami.
+
+| ilość segmentów | bonusy | kary |
+| :-------------: | :----: | :--: |
+|        3        |        |      |
+|        6        |        |      |
+|        9        |        |      |
+|       12        |        |      |
 
 ### Średni
-
 Kolczugi, lekka stal i twarda skóra \- czyli najbardziej uniwersalny typ pancerza oferujący dobrą ochronę przed pociskami.
 
+Musisz posiadać conajmniej **15** werwy *Tężyw*, aby móc założyć ten typ pancerza.
+
 Bonusy i kary za segment:
+
+| ilość segmentów | bonusy | kary |
+| :-------------: | :----: | :--: |
+|        3        |        |      |
+|        6        |        |      |
+|        9        |        |      |
+|       12        |        |      |
+
 
 ### Ciężki
-
 Ciężka stal, pełna płytówka i mało co jest w stanie ci zagrozić.
 
+Musisz posiadać conajmniej **30** werwy *Tężyw*, aby móc założyć ten typ pancerza.
+
 Bonusy i kary za segment:
+
+| ilość segmentów |                     bonusy                      |                            kary                            |
+| :-------------: | :---------------------------------------------: | :--------------------------------------------------------: |
+|        3        |                                                 |   kość karna przy każdej próbie skradania się/kamuflażu    |
+|        6        |                                                 | możesz wykonywać akcję *Ruchu* tylko raz na **dwie** tury. |
+|        9        |                                                 |               brak możliwości skradania się                |
+|       12        | twoja *Wola Walki* jest zwiększona o **W1\*10** |               -10 przy testach werwy *Tężyw*               |
 
 ### Pękanie broni i pancerzy
 
-Przy każdym zaatakowaniu Pancerza atakujący oraz obrywający musi rzucić na to, czy pęknie mu Broń lub Pancerz.
+Przy zaatakowaniu Pancerza atakujący oraz obrywający musi wykonać test pęknięcia: czy pęknie mu Broń lub Pancerz.
 
-Broń lub Pancerz jakości 1 ma szansę na pęknięcie 50% przy każdym ciosie w pancerz. Z każdą jakością w górę szansa ta spada o 10%, więc broń/pancerz jakości 4 ma próg 80 na nie-pęknięcie.
+Broń lub Pancerz jakości 1 ma szansę na pęknięcie 50% przy każdym ciosie w Pancerz. Z każdą jakością w górę próg ten zwiększa się o 10, więc broń/pancerz jakości 4 ma próg 80 na nie-pęknięcie.
 
 Do tego dochodzi jednak mechanika zmęczenia broni. Wynosi ona dokładnie tyle, jaki poziom jakości ma twoja broń. Mechanika ta mówi, po ilu następujących po sobie ciosach trzeba wykonywać test pęknięcia.
 
@@ -61,12 +86,14 @@ Więc jakość 1 może wykonać 1 atak bez testu pęknięcia, drugi atak w nast�
 
 Aby wyzerować zmęczenie broni należy przez jedną turę nie atakować.
 
+Pancerz nie ma mechaniki zmęczenia, przy każdym ciosie musi wykonać test pęknięcia.
+
 Gdy pancerz pęknie, jest traktowany jako brak zbroi.
 
 Pęknięta broń może zadać maksymalnie zadrapanie.
 
 O bronie i zbroje trzeba dbać, czyścić i olejować, aby szansa na pęknięcie była jak najmniejsza.
 
-Brudna broń ma \-10 progu pęknięcia, a zadbana \+10.
+Brudna broń ma \+10 progu pęknięcia, a zadbana \-10.
 
 Naprawienie pękniętej broni lub zbroi to prosty test odpowiedniego rzemiosła.
