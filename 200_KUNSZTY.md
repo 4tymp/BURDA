@@ -31,10 +31,6 @@ Jest kilka sposobów uczenia się umiejętności, należy pamiętać, że z każ
 * Wykonywany jest test Erudyty oraz cechy testowanej przez uczoną umiejętność. Jeśli oba testy zakończą się sukcesem dodawany jest 1 postęp w uczeniu się umiejętności.  
 * Trzeba pamiętać, że książka może nauczyć tylko i wyłącznie 9 postępów. Ostatni zawsze musi być wyćwiczony z nauczycielem.
 
-# 
-
-# 
-
 # Lista Kunsztów:
 
 ## 1\. Piśmienność
@@ -44,7 +40,6 @@ Umożliwia czytanie i pisanie. Trudniejsze teksty lub szyfry testuje cechą Erud
 **Właściwość:** 
 
 Pozwala na:
-
 * fałszowanie charakteru pisma oraz podpisów  
 * tworzenie oraz próbę dekodowania szyfrów
 
@@ -153,7 +148,9 @@ Czujesz, gdy coś się nie zgadza, coś jest nie tak. Mistrz prosi cię wtedy o 
 
 ## 13\. Kamuflaż
 
-Pozwala ci skradać/ukrywać się testem Chybkiego. Podczas walki trzeba zaznaczyć twoją ostatnią znaną pozycję, oraz pamiętać, że poruszanie się w ukryciu kosztuje 2x więcej Ruchu.
+Pozwala ci skradać/ukrywać się testem Chybkiego. 
+
+Aby poruszyć się w ukryciu musisz wykonać Akcję przemieszczenia się dwa razy pod rząd. (Może to się dziać też przez dwie tury, ważne żeby nie wykonać nic innego oprócz ruchu aż się nie przemieścisz)
 
 Jeśli próbujesz skradać się w pobliżu wroga, dostajesz kostkę Karną na test Chybkiego.
 
