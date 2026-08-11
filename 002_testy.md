@@ -1,6 +1,6 @@
 # TESTY
 
-BURDA to silnik oparty na kości procentowej k100. 1 na ściance \- 1% na wykonanie danej akcji. Szansa na wykonanie wybranej akcji wynosi tyle, ile punktow posiadasz w testowanej Werwie. Aby test zakończył się sukcesem trzeba wyrzucić dokładnie tyle, lub mniej niż wynosi próg.
+BURDA to silnik oparty na kości procentowej k100. 1 na ściance \- 1% na wykonanie danej akcji. Szansa na wykonanie wybranej akcji wynosi tyle, ile punktów posiadasz w testowanej Werwie. Aby test zakończył się sukcesem trzeba wyrzucić dokładnie tyle, lub mniej niż wynosi próg.
 
 Trzeba jednak wziąć pod uwagę bonusy od umiejętności oraz kary za ich brak. Kary i bonusy może nadać również mistrz gry, wszystko zależne jest od sytuacji.
 
@@ -18,15 +18,15 @@ Pamiętajcie jednak, że Ikra to nie magia. Rzut krytyczny na przeszukiwanie pok
 
 Wyniki rzutu od 91 do 100 włącznie to Krytyczny Pech, czyli Licho. Jest to odwrotność zwykłego Krytyka, czyli wszystko co mogło pójść źle, poszło.
 
-### Kostki Triumfu i Karne
+### Triumf i Kara
 
-Kostki Triumfu i karne są wykorzystywane, gdy postać posiada bardzo łatwą, lub trudną sytuację.
+*Triumf* i *Kara* jest wykorzystywana, gdy postać posiada bardzo łatwą, lub trudną sytuację.
 
-Gdy rzucasz z kością Triumfu \- rzucasz dwa razy k100, po czym wybierasz lepszy wynik.
+Gdy rzucasz z *Triumfem* \- rzucasz dwa razy k100, po czym wybierasz lepszy wynik.
 
-Gdy rzucasz z kością Karną \- rzucasz dwa razy k100, po czym wybierasz gorszy wynik.
+Gdy rzucasz z *Karą* \- rzucasz dwa razy k100, po czym wybierasz gorszy wynik.
 
-Kostki Triumfu i Karne niwelują się. Jeżeli masz 2 Kostki Triumfu, i na rzut 1 Karną \- rzucasz tylko jedną Triumfu. W drugą stronę wygląda to identycznie.
+*Triumf* i *Kara* niweluje się. Jeżeli masz **2** *Triumfy* i **1** *Karę* \- rzucasz tylko jednym *Triumfem*. W drugą stronę wygląda to identycznie.
 
 ### Przykłady \!\!\!\!\!
 
