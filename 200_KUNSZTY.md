@@ -49,7 +49,9 @@ Wybierz jeden z oręża z listy broni, po czym wpisz ją jako umiejętność. W�
 
 ## 3\. Armatura
 
-Wybierz jeden typ zbroi z listy pancerza, po czym wpisz go jako umiejętność.
+Wybierz jeden typ zbroi z listy pancerza, po czym wpisz go jako kunszt.
+
+Bonusy do tego kunsztu to bonus do progu nie-pęknięcia zbroi.
 
 Pancerz musi pęknąć 2 razy, aby był uznawany za pęknięty.
 
@@ -170,7 +172,7 @@ Pozwala wykonać kradzież oraz otworzyć zamek bez najmniejszego szelestu. Dost
 
 ## 15\. Bajera
 
-Umiejętność rozmawiania, przegadywania postaci, manipulacji oraz świecenia wyglądem. Test odpowiedniej Werwy w zależności od sytuacji.
+Umiejętność rozmawiania, przegadywania postaci, manipulacji oraz świecenia wyglądem. Test odpowiedniej werwy w zależności od sytuacji.
 
 **Właściwość:**
 
@@ -194,7 +196,7 @@ Pozwala na atakowanie oraz wykonywanie akcji z wierzchowca.
 
 ## 18\. Tresura
 
-Pozwala na oswajanie stworzeń testem Erudyty.
+Pozwala na oswajanie stworzeń testem odpowiedniej werwy w zależności od sytuacji.
 
 Do walki możesz wziąć swojego jednego zwierzęcego towarzysza.
 
@@ -204,7 +206,7 @@ Zwierzak może się nauczyć dwóch typów tresury.
 
 ## 19\. Buszowanie
 
-Umiejętność tropienia, łowienia oraz ogólnopojętego przetrwania w dziczy. Test Erudyty/Chybkiego.
+Umiejętność tropienia, łowienia oraz ogólnopojętego przetrwania w dziczy. Test odpowiedniej werwy w zależności od sytuacji.
 
 **Właściwość:**
 
@@ -212,9 +214,9 @@ Może sprawdzić teren w jego najbliższym zasięgu w poszukiwaniu ukrytych cel�
 
 ## 20\. Medycyna
 
-Wiesz jak poskładać ziomeczka do kupy. W warunkach polowych \-15.
+Wiesz jak poskładać ziomeczka do kupy. W warunkach polowych **\-15**.
 
-Potrafisz również tworzyć zdrowotne wywary czy inne leki. Test Erudyty.
+Potrafisz również tworzyć zdrowotne wywary czy inne leki. Test werwy *Erudyta* lub *Szmagier*.
 
 **Właściwość:**
 
