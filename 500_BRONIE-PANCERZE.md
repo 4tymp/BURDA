@@ -2,11 +2,11 @@
 
 Domyślnie można nosić ze sobą maksymalnie **2** sztuki oręża.
 
-Bronią sieczną i włóczniami można wykonać test fachu Krzepa, aby spróbować siłą przeforsować się przez pancerz. *(średni pancerz: \-20 do testu, ciężki \-30)*. Po forsowaniu kończyna od razu jest zniszczona.
+Bronią sieczną i włóczniami można wykonać test fachu *Krzepa*, aby spróbować siłą *przeforsować* się przez pancerz. *(średni pancerz:* **-20** *do testu, ciężki* **-30** *)*. Po forsowaniu kończyna od razu jest *zniszczona*.
 
-Gdy umiejętność jakiejkolwiek broni jednoręcznej będzie na **3** poziomie, można używać dwóch broni jednoręcznych jednocześnie. Na oba ataki trzeba wykonać test.
+Gdy *fach* jakiejkolwiek broni jednoręcznej będzie na **3** poziomie, można używać dwóch broni jednoręcznych jednocześnie. Na oba ataki trzeba wykonać *test*.
 
-Oto tabela jaki typ obrażeń dostanie kończyna w zależności od tego jaki ma na sobie pancerz i czym zostanie zaatakowana, oraz właściwości broni odblokowane na 3 poziomie umiejętności.
+Oto tabela jaki typ obrażeń dostanie kończyna w zależności od tego jaki ma na sobie pancerz i czym zostanie zaatakowana, oraz właściwości broni odblokowane na 3 poziomie *fachu*.
 
 |                         |    brak     |    Lekki    |   Średni    |   Ciężki    |                                       Właściwość                                       |
 | :---------------------: | :---------: | :---------: | :---------: | :---------: | :------------------------------------------------------------------------------------: |
@@ -31,12 +31,14 @@ Oto tabela jaki typ obrażeń dostanie kończyna w zależności od tego jaki ma 
 
 ## PANCERZE
 
-Mamy razem 12 miejsc na pancerz, tak samo jak jest 12 kończyn. Można mieć absolutny miszmasz, albo pełną zbroję płytową. Twój wybór.
+Mamy razem **12** miejsc na pancerz, tak samo jak **12** opisanych kończyn. Na każdą kończynę możesz założyć wybrany *segment*. Można mieć absolutny miszmasz, albo pełną zbroję płytową. Twój wybór.
 
-Warto pamiętać, że jeśli Pancerz pęknie, to liczony jest jako brak pancerza. W takim wypadku również nie dolicza się do ilości segmentów.
+Warto pamiętać, że jeśli Pancerz *pęknie*, to liczony jest jako brak pancerza. W takim wypadku również nie dolicza się do *ilości segmentów*.
 
 ### Lekki
 Lekka skóra, przeszywanice i pikowany strój - nie ogranicza ruchów, ale nie oferuje zbyt dobrej ochrony przed obrażeniami.
+
+Bonusy i kary za segment:
 
 | ilość segmentów |                             bonusy                              |                              kary                               |
 | :-------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
@@ -52,12 +54,12 @@ Musisz posiadać conajmniej **15** werwy *Tężyw*, aby móc założyć ten typ 
 
 Bonusy i kary za segment:
 
-| ilość segmentów | bonusy | kary |
-| :-------------: | :----: | :--: |
-|        3        |        |      |
-|        6        |        |      |
-|        9        |        |      |
-|       12        |        |      |
+| ilość segmentów |                                                                      bonusy                                                                       |                         kary                         |
+| :-------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
+|        3        |                                                                         -                                                                         |                          -                           |
+|        6        |                                            *Reakcja* Przygotowanie ofensywne nie kosztuje już *Jaźni*                                             | Nie możesz wykonać *Reakcji* Przygotowane defensywne |
+|        9        |                                                        **Triumf** do *Forsowania* pancerza                                                        |      Nie możesz wykonać *Ruchu* jako *Reakcji*       |
+|       12        | Jeżeli atakowany jest *pęknięty* segment pancerza, możesz przekierować atak w jeszcze *niepęknięty* segment. Segment ten od razu *pęka* po ataku. |                          -                           |
 
 ### Ciężki
 Ciężka stal, pełna płytówka i mało co jest w stanie ci zagrozić.
@@ -75,24 +77,26 @@ Bonusy i kary za segment:
 
 ## PĘKANIE broni i pancerzy
 
-Przy zaatakowaniu Pancerza atakujący oraz obrywający musi wykonać test pęknięcia: czy pęknie mu Broń lub Pancerz.
+Przy zaatakowaniu Pancerza atakujący oraz obrywający musi wykonać *test pęknięcia*: czy pęknie mu Broń lub Pancerz.
 
-Broń lub Pancerz jakości 1 ma szansę na pęknięcie 50% przy każdym ciosie w Pancerz. Z każdą jakością w górę próg ten zwiększa się o 10, więc broń/pancerz jakości 4 ma próg 80 na nie-pęknięcie.
+Broń lub Pancerz jakości **1** posiada próg niepęknięcia równy **50**. Z każdą jakością w górę próg ten zwiększa się o **10**, więc broń/pancerz jakości **4** ma próg **80** na *niepęknięcie*.
 
-Do tego dochodzi jednak mechanika zmęczenia broni. Wynosi ona dokładnie tyle, jaki poziom jakości ma twoja broń. Mechanika ta mówi, po ilu następujących po sobie ciosach trzeba wykonywać test pęknięcia.
+Do tego dochodzi jednak mechanika *zmęczenia broni*. Wynosi ona dokładnie tyle, jaki poziom jakości ma twoja broń. Mechanika ta mówi, po ilu następujących po sobie ciosach trzeba wykonywać *test pęknięcia*.
 
-Więc jakość 1 może wykonać 1 atak bez testu pęknięcia, drugi atak w następnej lub tej samej turze będzie już wymagał testu, czy broń nie pęknie. W tej samej logice broń jakości 4 może wykonać 4 ataki pod rząd bez testu, dopiero za piątym będzie wykonywany test pęknięcia.
+Więc jakość **1** może wykonać **1** atak bez testu pęknięcia, **drugi** atak w następnej lub tej samej turze będzie już wymagał testu, czy broń nie *pęknie*. 
+W tej samej logice broń jakości **4** może wykonać **4** ataki pod rząd *bez testu*, dopiero za **piątym** będzie wykonywany test pęknięcia.
 
-Aby wyzerować zmęczenie broni należy przez jedną turę nie atakować.
+Aby **wyzerować** zmęczenie broni należy przez **jedną** turę *nie atakować*.
 
-Pancerz nie ma mechaniki zmęczenia, przy każdym ciosie musi wykonać test pęknięcia.
+Pancerz *nie ma mechaniki zmęczenia*, przy każdym ciosie musi wykonać *test pęknięcia*.
 
-Gdy pancerz pęknie, jest traktowany jako brak zbroi.
+Gdy pancerz *pęknie*, jest traktowany jako **brak zbroi**.
 
-Pęknięta broń może zadać maksymalnie zadrapanie.
+*Pęknięta* broń może zadać maksymalnie *zadrapanie*.
 
-O bronie i zbroje trzeba dbać, czyścić i olejować, aby szansa na pęknięcie była jak najmniejsza.
+O bronie i pancerze trzeba *dbać*, czyli  *czyścić i olejować*, aby szansa na pęknięcie była jak **najmniejsza**.
 
-Brudna broń ma \+10 progu nie-pęknięcia, a zadbana \-10.
+Brudna broń ma **\+10** progu *niepęknięcia*, a zadbana **\-10**.
+Broń zostaje *zadbana* przez **całą** walkę, po jej zakończeniu zostaje *brudna*.
 
-Naprawienie pękniętej broni lub zbroi to prosty test odpowiedniego rzemiosła.
+Naprawienie *pękniętej* broni lub zbroi to **prosty test** odpowiedniego *kunsztu*.
