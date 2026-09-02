@@ -33,8 +33,6 @@ Oto tabela jaki typ obrażeń dostanie kończyna w zależności od tego jaki ma 
 
 Mamy razem **12** miejsc na pancerz, tak samo jak **12** opisanych kończyn. Na każdą kończynę możesz założyć wybrany *segment*. Można mieć absolutny miszmasz, albo pełną zbroję płytową. Twój wybór.
 
-Warto pamiętać, że jeśli Pancerz *pęknie*, to liczony jest jako brak pancerza. W takim wypadku również nie dolicza się do *ilości segmentów*.
-
 ### Lekki
 Lekka skóra, przeszywanice i pikowany strój - nie ogranicza ruchów, ale nie oferuje zbyt dobrej ochrony przed obrażeniami.
 
