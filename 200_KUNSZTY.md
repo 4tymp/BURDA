@@ -111,26 +111,29 @@ Umiejętność długotrwałego wysiłku, takiego jak trening, pływanie lub bieg
 
 Pozwala na natychmiastową ucieczkę z pola bitwy nawet gdy przeciwnik jest w najbliższym zasięgu.
 
-## 10\. Letarg ?\!PO MAGII?\!?
+## 10\. Letarg
 
-Pozwala skupić się, aby zwiększyć szansę na rzucenie czaru w zamian za punkt Jaźni.
+Umiejętność wyjątkowego skupienia się nad wykonywanymi działanami. Szczególnie efektywne przy *szarlataństwie*.
 
-Pozwala również zniwelować kostki karne w sytuacjach pod presją.
+Aby wejść w stan *letargu*, musisz wykonać test *Szmagiera*.
+W trakcie walki kosztuje on *BURDĘ*.
 
-Skupienie kosztuje 1pkt. Jaźni.
+Gdy jesteś w stanie letargu, możesz wydawać dowolną ilość punktów *Jaźni*, aby zwiększyć szansę na powodzenie swoich akcji. Nie kosztuje to dodatkowych *BURD*.
 
-Poziomy skupienia i jego bonusy:
+Bonusy różnią się w zależności od tego, czy wykonywana akcja jest *szarlataństwem* czy nie.
 
-1. \+10 do testu.  
-2. \+Kostka Triumfu  
-3. \+10 do testu  
-4. \+Kostka Triumfu  
-5. \+10 do Testu  
-6. \+Kostka Triumfu
+| koszt jaźni | bonus przy *szarlataństwie* | bonus przy innych akcjach |
+| :---------: | :-------------------------: | :-----------------------: |
+|      1      |      **+10** do testu       |      **+5** do testu      |
+|      2      | dodatkowy *triumf* do testu |      **+5** do testu      |
+|      3      |      **+10** do testu       |      **+5** do testu      |
+|      4      | dodatkowy *triumf* do testu |             -             |
+|      5      |      **+10** do testu       |             -             |
+|      6      | dodatkowy *triumf* do testu |             -             |
 
-Właściwość:
+**Właściwość:**
 
-Pozwala medytować, aby odnowić połowę maksymalnej Jaźni lub Wigoru testem Erudyty.
+Pozwala medytować, aby odnowić połowę maksymalnej *Jaźni* testem *Szmagiera*.
 
 ## 11\. Baczenie
 
