@@ -8,7 +8,7 @@ Jest to pływ Magii zajmujący się wpływaniem na pierwotne zasady świata. Zaj
 
 Magowie Pierwotni to mistrzowie kontroli. Potrafią zawiesić przeciwników nad ziemią, przyciągać i odsuwać całe kontynenty, spłaszczać stal i usunąć dźwięk z całych miast. A jeśli coś nie pójdzie po ich myśli, najlepsi podobno potrafią cofać się w czasie…
 
-Właściwość:
+**Właściwość:**
 
 Potrafi wykorzystać otoczenie dookoła aby dostać bonusy pasujące do otoczenia. PATRZ POMOC\!
 
@@ -16,15 +16,15 @@ Potrafi wykorzystać otoczenie dookoła aby dostać bonusy pasujące do otoczeni
 
 Tak zwani czarnoksiężnicy parają się magią związaną z mrokiem, krwią i śmiercią. To ich magia jest najbardziej zabójcza i bardzo dobrze o tym wiedzą. Niektórzy parają się dodatkowo klątwami, nekromancją lub wampiryzmem.
 
-Właściwość:
+**Właściwość:**
 
 Zadaje obrażenia o jeden poziom wyższe podczas zaklęć ofensywnych.
 
 ## Szarlataństwo Czyste
 
-Ludzie prawi lub wybrani przez bogów. Biała Magia to również natura\! Zwykle kapłani, paladyni, druidzi lub mistrzowie iluzji\!
+Ludzie prawi lub wybrani przez bogów. Szarlataństwo Czyste to również natura\! Zwykle kapłani, paladyni, druidzi lub mistrzowie iluzji\!
 
-Właściwość:
+**Właściwość:**
 
 Zaklęcia leczą o jeden poziom obrażeń więcej, szarlataństwo defensywne tworzy pancerz o jeden poziom wyższy.
 
