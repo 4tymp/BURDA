@@ -38,7 +38,30 @@ Przy oswojeniu musisz wybrać jeden typ tresury:
 Dany zwierzak musi pasować do swojego wytrenowanego typu. Nie ujedziesz żmii węża\!  
 Wielkość zwierza zależy od interpretacji gracza i mistrza gry.
 
-# Lista run \!\!
+# Lista run
+
+*Runy* to elementy, które możesz łączyć w zaklęcia używając *inskrypcji*. To jak zadziała zaklęcie runiczne zależy od *run*, które się w nim znajdują. *Runy* w zaklęciu łączą się, współpracują i tworzą nowe, niespotykane efekty.
+
+1. Ciężar
+2. Dźwięk
+3. Energia
+4. Miejsce
+5. Odepchnięcie
+6. Ogień
+7. Precyzja (potrzebne do celowania magią runiczną)
+8. Przebicie
+9. Przyciągnięcie
+10. Pułapka
+11. Spowolnienie
+12. Stworzenie
+13. Szybkość
+14. Umysł
+15. Utwardzenie
+16. Wiatr
+17. Wizja
+18. Woda
+19. Ziemia
+20. Zniszczenie
 
 # Glosariusz
 
