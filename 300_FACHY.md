@@ -266,6 +266,8 @@ Wymagania:
 
 Potrafisz rzucać *zaklęcia runiczne* podobnie do zwykłych zaklęć.
 
+Zaklęcia te kosztują *BURDĘ*, nie wymagają jednak testu *Szmagiera*.
+
 Potrafisz wpisać **2** razy więcej *run* do swoich zaklęć.
 
 ### Świstak
