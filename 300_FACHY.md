@@ -252,20 +252,23 @@ Zdolność:
 
 Posiadasz 1,5 razy więcej Jaźni zaokrąglone w dół. Medytowanie przywraca ci pełnię Jaźni.
 
-### Mag Run\!\!\!
+### Mag Run
 
 Wymagania:
 
-* Szmagier: 40  
-* Erudyta: 40  
-* Kunszt Inskrypcja  
-* Kunszt Piśmienność  
-* Kunszt Magia (dowolna)  
-* Stwórz 3 nietypowe Grimuary.
+* *Szmagier:* **30**  
+* *Erudyta*: **40**  
+* Kunszt *Inskrypcja*  
+* Kunszt *Piśmienność*    
+* Stwórz nietypowy Grimuar.
 
-Zdolność:
+**Zdolność:**
 
-Potrafisz rzucać zaklęcia runiczne podobnie do zwykłych zaklęć\! W tym przypadku maksymalna ilość run w zaklęciu 2 razy poziom umiejętności Inskrypcja.
+Potrafisz rzucać *zaklęcia runiczne* podobnie do zwykłych zaklęć.
+
+Zaklęcia te kosztują *BURDĘ*, nie wymagają jednak testu *Szmagiera*.
+
+Potrafisz wpisać **2** razy więcej *run* do swoich zaklęć.
 
 ### Świstak
 

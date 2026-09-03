@@ -293,8 +293,20 @@ Jeżeli tworzysz pociski, ich ilość to poziom Kunsztu \* 10
 
 Przy Ikrze wykonujesz przedmiot o jedną jakość wyżej.
 
-## 24\. Inskrypcja\!\!
+## 24\. Inskrypcja
 
-do zrobienia po magii XD
+Potrafisz wykorzystywać *runy* do tworzenia magicznych przedmiotów i grimuarów. Test *Erudyty*.
 
-Właściwość:
+Aby to zrobić, musisz wybrać ile *run* chcesz zapisać w zaklęciu. Jedno zaklęcie kosztuje **1** punkt *Jaźni*.
+
+Maksymalna ilość *run* w zaklęciu zależy od poziomu *Inskrypcji* w stosunku **1:1**.
+
+**Właściwość:**
+
+Możesz wykorzystać również *szarlataństwo* do tworzenia magicznych przedmiotów i grimuarów.
+
+Aby to zrobić, musisz z powodzeniem wykonać test zaklęcia, które chcesz "wsadzić" do przedmiotu zaklinania.
+
+Następnie, musisz wykonać test kunsztu *Inskrypcja* z *Karą*.
+
+Jeżeli którykolwiek z tych testów się nie uda, w świat zostaje wypuszczona potężna, niekontrolowana magia, która może wywołać **katastrofalne skutki** w zależności od ilości zużytej *Jaźni* i mistrza gry.
