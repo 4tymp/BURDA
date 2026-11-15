@@ -43,7 +43,7 @@ Można *przycelować* w wybraną *kończynę* w zamian za **minusy** do *testu a
 ### 5\. Prawa ręka
 **\-20** przy przycelowaniu
 
-Broń finezyjna i mała może zrobić test *Rębajło* **\-30**, aby zaatakować pachę. Pancerz jest wtedy *ignorowany*.
+Broń finezyjna może zrobić test *Rębajło* **\-30**, aby zaatakować pachę. Pancerz jest wtedy *ignorowany*.
 
 - Zadrapanie: \-
 
@@ -54,7 +54,7 @@ Broń finezyjna i mała może zrobić test *Rębajło* **\-30**, aby zaatakować
 ### 6\. Lewa ręka
 **\-20** przy przycelowaniu
 
-Broń finezyjna i mała może zrobić test *Rębajło* **\-30**, aby zaatakować pachę. Pancerz jest wtedy *ignorowany*.
+Broń finezyjna może zrobić test *Rębajło* **\-30**, aby zaatakować pachę. Pancerz jest wtedy *ignorowany*.
 
 - Zadrapanie: \-
 
