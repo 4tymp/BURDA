@@ -8,26 +8,26 @@ Gdy *fach* jakiejkolwiek broni jednoręcznej będzie na **3** poziomie, można u
 
 Oto tabela jaki typ obrażeń dostanie kończyna w zależności od tego jaki ma na sobie pancerz i czym zostanie zaatakowana, oraz właściwości broni odblokowane na 3 poziomie *fachu*.
 
-|                         |    brak     |    Lekki    |   Średni    |   Ciężki    |                                       Właściwość                                       |
-| :---------------------: | :---------: | :---------: | :---------: | :---------: | :------------------------------------------------------------------------------------: |
-|      **Obuchowa**       | zniszczenie | zniszczenie |  zranienie  |  zranienie  |                                           \-                                           |
-|  **Miecze obusieczne**  | zniszczenie |  zranienie  | zadrapanie  |     \-      |                             Ma \+20 na forsowanie pancerza                             |
-| **Miecze jednosieczne** | zniszczenie |  zranienie  | zadrapanie  |     \-      |           Jeżeli pierwszy atak w cel nie trafi, można spróbować jeszcze raz.           |
-|       **Topory**        | zniszczenie | zniszczenie |  zranienie  | zadrapanie  |                   Można nim rzucić testem Rębajło w zasięgu bliskim.                   |
-|      **Finezyjna**      | zniszczenie | zniszczenie | zadrapanie  |     \-      |                          Może wybrać lokację trafień bez kar.                          |
-|        **Mała**         | zniszczenie |  zranienie  |     \-      |     \-      |                      Dodaje wartość Chybkiego do testów Rębajło.                       |
-|       **Tarcza**        |  zranienie  | zadrapanie  | zadrapanie  |     \-      |            Umożliwa blokowanie wszystkich pocisków, również Szarlatańskich.            |
-|      **Drzewcowa**      | zniszczenie |  zranienie  | zadrapanie  |     \-      |                  Może atakować w zasięgu Bliskim zamiast Najbliższym.                  |
-|    **Kostury, kije**    |  zranienie  | zadrapanie  |     \-      |     \-      |                       Może odpychać cele bez zadawania obrażeń.                        |
-| **Obuchowa dwuręczna**  | zniszczenie | zniszczenie | zniszczenie | zniszczenie |                                           \-                                           |
-|  **Miecze dwuręczne**   | zniszczenie | zniszczenie |  zranienie  | zadrapanie  |                            Ma \+30 do forsowania pancerza.                             |
-|  **Topory dwuręczne**   | zniszczenie | zniszczenie |  zranienie  |  zranienie  |                   Można nim rzucić testem Rębajło w zasięgu średnim.                   |
-|        **Kopia**        |  zranienie  | zadrapanie  |     \-      |     \-      |            Za każdy ruch przed atakiem zadaje jeden stopień obrażeń więcej.            |
-|    **Improwizowana**    |      ?      |      ?      |      ?      |      ?      |                                 ZALEŻNE OD TYPU BRONI.                                 |
-|       **Pięści**        |  zranienie  | zadrapanie  | zadrapanie  |     \-      | Moze wydać jedną BURDĘ za 3 ataki więcej, lub za rzut przeciwnikiem w zasięgu bliskim. |
-|         **Łuk**         | zniszczenie | zniszczenie |  zranienie  |     \-      |                         \+20 na celowanie w wybraną kończynę.                          |
-|        **Kusza**        | zniszczenie | zniszczenie | zniszczenie |  zranienie  |                                           \-                                           |
-|     **Broń palna**      | zniszczenie | zniszczenie | zniszczenie | zniszczenie |                         \-20 na celowanie w wybraną kończynę.                          |
+|                                |    brak     |    Lekki    |   Średni    |   Ciężki    |                                       Właściwość                                       |
+| :----------------------------: | :---------: | :---------: | :---------: | :---------: | :------------------------------------------------------------------------------------: |
+|          **Obuchowa**          | zniszczenie | zniszczenie |  zranienie  |  zranienie  |                                           \-                                           |
+|     **Miecze obusieczne**      | zniszczenie |  zranienie  | zadrapanie  |     \-      |                             Ma \+20 na forsowanie pancerza                             |
+|    **Miecze jednosieczne**     | zniszczenie |  zranienie  | zadrapanie  |     \-      |           Jeżeli pierwszy atak w cel nie trafi, można spróbować jeszcze raz.           |
+|           **Topory**           | zniszczenie | zniszczenie |  zranienie  | zadrapanie  |                   Można nim rzucić testem Rębajło w zasięgu bliskim.                   |
+|         **Finezyjna**          | zniszczenie | zniszczenie | zadrapanie  |     \-      |                          Może wybrać lokację trafień bez kar.                          |
+|            **Mała**            | zniszczenie | zadrapanie  | zadrapanie  |     \-      |                      Dodaje wartość Chybkiego do testów Rębajło.                       |
+|           **Tarcza**           |  zranienie  | zadrapanie  | zadrapanie  |     \-      |            Umożliwa blokowanie wszystkich pocisków, również Szarlatańskich.            |
+|         **Drzewcowa**          | zniszczenie |  zranienie  |  zranienie  |     \-      |                  Może atakować w zasięgu Bliskim zamiast Najbliższym.                  |
+|       **Kostury, kije**        |  zranienie  | zadrapanie  |     \-      |     \-      |                       Może odpychać cele bez zadawania obrażeń.                        |
+|     **Obuchowa dwuręczna**     | zniszczenie | zniszczenie | zniszczenie | zniszczenie |                                           \-                                           |
+|      **Miecze dwuręczne**      | zniszczenie | zniszczenie |  zranienie  | zadrapanie  |                            Ma \+30 do forsowania pancerza.                             |
+|      **Topory dwuręczne**      | zniszczenie | zniszczenie |  zranienie  |  zranienie  |                   Można nim rzucić testem Rębajło w zasięgu średnim.                   |
+|           **Kopia**            |  zranienie  | zadrapanie  |     \-      |     \-      |            Za każdy ruch przed atakiem zadaje jeden stopień obrażeń więcej.            |
+|       **Improwizowana**        |      ?      |      ?      |      ?      |      ?      |                                 ZALEŻNE OD TYPU BRONI.                                 |
+|           **Pięści**           |  zranienie  | zadrapanie  |      -      |     \-      | Moze wydać jedną BURDĘ za 3 ataki więcej, lub za rzut przeciwnikiem w zasięgu bliskim. |
+|    **Łuk** (zasięg daleki)     | zniszczenie | zniszczenie |  zranienie  |     \-      |                         \+20 na celowanie w wybraną kończynę.                          |
+|   **Kusza** (zasięg daleki)    | zniszczenie | zniszczenie | zniszczenie |     za      |                                           \-                                           |
+| **Flinta** (zasięg najbliższy) | zniszczenie | zniszczenie | zniszczenie | zadrapanie  |                         \-20 na celowanie w wybraną kończynę.                          |
 
 ## PANCERZE
 

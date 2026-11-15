@@ -4,7 +4,7 @@ Werwy to różne części, które drzemią w twojej postaci. Jeżeli gracz chce 
 
 Werwy to:
 
-* RĘBAJŁO \- Umiejętność walki w zwarciu. Od niej zależna jest szansa na trafienie bronią w zwarciu, parowanie oraz testy wiedzy typowej dla rębajło lub użycia broni w innych celach, np. zastraszenia. **Każda 30 pozwala na zaatakowanie kolejnego wroga w  zasięgu Najbliższym.**  
+* RĘBAJŁO \- Umiejętność walki w zwarciu. Od niej zależna jest szansa na trafienie bronią w zwarciu, parowanie oraz testy wiedzy typowej dla rębajło lub użycia broni w innych celach, np. zastraszenia. **Każda 30 pozwala na zaatakowanie kolejnego wroga w  zasięgu Najbliższym. Każdy z nich dostaje ten sam stopień obrażeń w tą samą kończynę, co "główny" cel. (Wykonujesz 1 rzut na ten atak atakujący wielu wrogów)**  
 * DZIURAWIEC \- Umiejętność walki dystansowej. Od niej zależy szansa na trafienie bronią dystansową, rzuconym przedmiotem oraz szybkiego uniku. Będzie też ważna przy akcjach pasujących do dziurawca, np. testy na zbieranie strzał po walce. **Każda 10 daje dodatkową turę w której posiadasz dwa punkty BURDY od początku walki.**  
 * SZMAGIER \- Umiejętność posługiwania się magią, psychika oraz umiejętność skupienia. Od niej zależy szansa na sukces w rzuceniu czaru. **Każda 10 zwiększa twoją Jaźń o 1\.**  
 * TĘŻYW \- Od tej cechy zależna jest twoja siła i kondycja. **Każda 10 zwiększa twój Wigor o 1\.**  

@@ -42,19 +42,20 @@ Domyślnie możesz użyć jednej Reakcji na rundę walki.
 - Przygotowanie defensywne: Dostajesz kostkę Triumfu przy następnym teście Akcji Obronnej(koszt: **1pkt.** *Jaźni*).   
 - Ruch (koszt: **1pkt.** *Wigoru*)
 
-## ZASIĘG
+## DYSTANS
 
-Zasięg w BURDZIE dzielimy na 4 odległości:
+Dystans w *BURDZIE* dzielimy na **5** odległości:
 
-- NAJBLIŻSZY: Tuż obok. Zasięg wręcz.  
-- BLISKI: Większość ludzi trafiłaby z tej odległości w cel rzucając np. piłką.  
-- ŚREDNI: Tu już potrzeba conajmniej procy.
-- DALEKI: Ulubiona strefa łuczników.
-- NAJDALSZY: Tylko łuki snajperskie lub działa.
+- *NAJBLIŻSZY:* Tuż obok. Zasięg wręcz.  
+- *BLISKI:* Zasięg włóczni.  
+- *ŚREDNI:* Tu już potrzeba conajmniej procy.
+- *DALEKI:* Ulubiona strefa łuczników.
+- *NAJDALSZY:* Tylko łuki snajperskie lub działa.
 
-Wszystko powyżej liczone jest jako poza zasięgiem.
+Wszystko powyżej liczone jest jako *poza zasięgiem*.
 
-Akcja ruchu to przemieszczenie się o jedną odległość.
+Jeden *ruch* nie zapewnia przejścia z jednego dystansu w drugi. Wszystko zależne jest od sytuacji i mistrza gry.
+
 
 ## BURDA\!
 
