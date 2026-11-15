@@ -42,6 +42,9 @@ Wielkość zwierza zależy od interpretacji gracza i mistrza gry.
 
 *Runy* to elementy, które możesz łączyć w zaklęcia używając *inskrypcji*. To jak zadziała zaklęcie runiczne zależy od *run*, które się w nim znajdują. *Runy* w zaklęciu łączą się, współpracują i tworzą nowe, niespotykane efekty.
 
+Przyswajasz *runy* w ten sam sposób, w który uczysz się *kunsztów*.
+Nie wydajesz na nie *PR*.
+
 1. Ciężar
 2. Precyzja (potrzebne do celowania magią runiczną)
 3. Przebicie
@@ -53,6 +56,7 @@ Wielkość zwierza zależy od interpretacji gracza i mistrza gry.
 9. Zmysł
 10. Zniszczenie
 
+Jeżeli zaczynasz rozgrywkę z kunsztem *Inskrypcja*, dostajesz tyle *run*, z jakim poziomem *kunsztu* zaczynasz. Wybór należy do ciebie.
 # Glosariusz
 
 W ramach niewyjaśnionych wcześniej mechanik znajdą się tu odpowiedzi.
