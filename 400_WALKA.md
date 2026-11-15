@@ -24,6 +24,9 @@ Cała reszta posiada po jednym punkcie BURDY.
 Każdy posiada jeden punkt BURDY.  
 Kolejność zostaje taka jak wcześniej.
 
+## Wigor!
+Na koniec każdej tury, podczas której postać wykona jakąkolwiek akcję wymagającą fizycznie (atak, parada, rzut, strzal) trzeba wydać **1** punkt *wigoru*. 
+
 ## AKCJA-REAKCJA\! 
 
 ### AKCJA  
@@ -35,9 +38,9 @@ Gdy wiesz, że przeciwnik zamierza wykonać akcję w twoją stronę możesz wyko
 Domyślnie możesz użyć jednej Reakcji na rundę walki.
 
 - Akcja obronna: Test Kunsztu Parada, Bryk lub Separacja  
-- Przygotowanie ofensywne: Dostajesz kostkę Triumfu przy następnym teście Ataku (koszt: 1pkt. Jaźni).  
-- Przygotowanie defensywne: Dostajesz kostkę Triumfu przy następnym teście Akcji Obronnej(koszt: 1pkt. Jaźni).   
-- Ruch
+- Przygotowanie ofensywne: Dostajesz kostkę Triumfu przy następnym teście Ataku (koszt: **1pkt.** *Jaźni*).  
+- Przygotowanie defensywne: Dostajesz kostkę Triumfu przy następnym teście Akcji Obronnej(koszt: **1pkt.** *Jaźni*).   
+- Ruch (koszt: **1pkt.** *Wigoru*)
 
 ## ZASIĘG
 
